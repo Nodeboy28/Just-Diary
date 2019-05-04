@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="regentId">
+        "Name : Prof. Dr. Anwar Hossain
+            Vice Chancellor
+            Jessore University of Science and Technology,
+            Jessore
+tel   : 0421-61111
+         0421-51081
+Email : vc@just.edu.bd"
+
+    </string>
+    <string name="rg_member">
+        "Name: Prof. Sk. Abul Hossain
+                Treasurer
+                Jessore University of Science and Technology, Jessore
+        Tel: 0421-61121
+                0421-64634
+                01926-683044
+
+Name: Mr. Kazi Nabil Ahmed
+        Honourable Member of the Parliament
+        Jessore-03, Jessore
+Tel: 02-9138246
+        01711-404473
+
+Name: Mr. Shawpan Bhattacharjee
+        Honourable Member of the Parliament
+        Jessore-05, Jessore
+        Tel: 0421-64921
+                01712-238645
+
+Name: Md. Abdullah al Hasan Chowdhury
+        Additional Secretary ( University )
+        Ministry of Education, Bangladesh Secretariat, Dhaka
+Tel: 02-9512282
+        01711-861033
+
+Name: Prof. Dr. Golam Shahi Alam
+        Vice Chancellor
+        Sylhet Agricultural University, Sylhet
+Tel: 0821-761120
+      01737-677386
+
+
+Name: Dr. Md. Iqbal Kabir Jahid
+        Dean
+        Faculty of Biological Science and Technology
+        Jessore University of Science and Technology, Jessore
+Tel: 01929-913411
+      01926-684030
+
+Name: Dr. Md. Omar Faruque
+        Dean
+        Faculty of Engineering and Technology
+        Jessore University of Science and Technology, Jessore
+Tel:   01993-314382
+        01757-072815
+
+Name: Dr. A S M Mojahidul Hoque
+        Dean
+        Faculty of Science
+        Jessore University of Science and Technology, Jessore
+Tel: 01929-913416
+       01761-795569
+
+"
+
+    </string>
+    <string name="auditCell">
+        "Name: Md. Shoriful Islam
+Audit and Account Officer
+BCom ( Hons. ) and MCom ( NU )
+tel: 01622-477235
+      01727-407737
+Email : shorifuljstu@gmail.com
+
+Name: Mst. Shirin Sultana
+Section Officer ( Grade-2 )
+BA (Hons) MA (English) NU
+Tel: 01912-233502
+Email : shirinsultana57@gmail.com"
+
+    </string>
+    <string name="treasurer">
+        "Name: Prof S. K. Abul Hossain
+Treasurer
+BA (Hons) MA (RU)
+tel: 01926-683044
+      01740-543137
+Email : sahtreasurer@gmail.com
+
+Name: Mst Nasima Khatun
+Section Officer ( Grade-2 )
+BA (Hons) MA (NU)
+Tel:  01764-423321
+"
+
+    </string>
+    <string name="Dean1">
+        "Dean
+Prof. Dr. Biplob Kumar Biswas
+email: bk.biswas@just.edu.bd
+Tel: 01754-185255
+"
+    </string>
+    <string name="Computer">
+        "Dr. Syed Md. Galib
+Associate Professor and Chairman
+email: galib.cse@just.edu.bd
+Tel: 01781408274
+
+Md. Alam Hossain
+Assistant Professor
+email: alamcse_iu@yahoo.com
+Tel: 01929-913413
+
+Md. Asif Nashiry
+Assistant Professor (On Study Leave)
+email:asif.nashiry@gmail.com
+Tel: 01711-274393
+
+Md. Ashraful Islam
+Assistant Professor(on study leave)
+email:ashraf.diu@gmail.com
+Tel: 01723-546699
+
+Md. Kamrul Islam
+Assistant Professor(on study leave)
+email: mk.islam@just.edu.bd
+Tel: 01729-885196
+
+Engr. Md. Arif Rahman
+Assistant Professor
+email: arif.rah@gmail.com
+Tel: 0717-283829
+
+
+Nazmul Hossain
+Assistant Professor
+email: nazmul.justcse@gmail.com
+Tel: 01717-249730
+
+Md. Al Amin
+Assistant Professor
+email: malamin.ali@just.edu.bd
+Tel: 01714-556918
+
+Mohammad Nowsin Amin Sheikh
+Assistant Professor
+email:nowsin.just@gmail.com
+Tel:	01714-492550
+
+Md. Yasir Arafat
+Assistant Professor
+email: arafat.cse.jstu@gmail.com
+Tel: 01743-754783
+
+Jannatul Ferdush
+Lecturer
+email: jannatulkuet@gmail.com
+Tel: 01731-791101
+
+Monishanker Halder
+Lecutrer
+email:monicsejust@gmail.com
+Tel: 01727-653115
+
+"
+    </string>
+    <string name="Chemical">
+        "Dr. Md. Wasikur Rahman
+Associate Professor and Chairman
+email: w.rahman@just.edu.bd and wasikurjstu@gmail.com
+  01732-291688
+
+Dr. Biplob Kumar Biswas
+Professor
+email: bk.biswas@just.edu.bd
+Tel: 01754-392701
+
+
+
+Dr. Md. Zaved Hossain Khan
+Associate Professor
+email: zaved.khan@yahoo.com
+Tel:01763-387455
+
+S. M. Nur Alam
+Assistant Professor(On Study Leave)
+email:sm_moni2001@yahoo.com
+Tel:01745-438769
+
+Most. Afroza Khatun
+Assistant Professor (On Study Leave)
+email:afroza.jstu@gmail.com
+Tel:01717-011158
+
+Mst. Sheauly Khatun
+Assistant Professor (on study leave ,Australia)
+email:ms.khatun@just.edu.bd
+Tel:01715-328502
+
+Md. Jahangir Alam
+Assistant Professor
+email: mj.alam@just.edu.bd; jahangirche@gmail.com.
+Tel: 01911-613187
+
+Md. Rafiul Hasan
+Assistant Professor
+email: rafiul.che@gmail.com
+Tel: 01737-488666
+
+Md. Abdul Halim
+Assistant Professor
+email:halim.che09@gmail.com
+Tel: 01745-561868
+
+Anjan Deb
+Lecturer
+email: a.deb@just.edu.bd; deb_ce@yahoo.com
+Tel: 01787-199622
+
+
+Shahanaz Parvin
+Lecturer
+email: shahanaz.che@gmail.com
+Tel: 01966-985176
+
+Sumaia Akter Sumi
+Lecturer
+email: sumi.just@gmail.com
+Tel: 01930-451656
+
+Md. Jahangir Hossain
+Technical Officer
+email:hossainjahangir615@gmail.com
+Tel:01913-718350
+
+"
+</string>
+    <string name="Ipe">
+        "Dr. A.S.M. Mojahidul Hoque
+Associate Professor and Chairman
+email: asm.hoque2@mail.dcu.ie
+Tel:01761-795569
+
+Pobitra Kumar Halder
+Assistant Professor (On study leave for PhD in Australia)
+email: pk.halder@just.edu.bd, pobitra.halder@gmail.com
+Tel:01913-597592
+
+Samrat Kumar Dey
+Assistant Professor
+email: samrat04@gmail.com
+Tel:01911-291231
+
+Rubayet Karim
+Assistant Professor(on study leave)
+email: rubayet26@gmail.com,r.karim01@just.edu.bd
+Tel:01711-464690
+
+Sarojit Kumar Biswas
+Assistant Professor
+email: sarojitipe@gmail.com
+Tel:01737-055931
+Md.Sumon Rahman
+Lecturer
+email: sumon.just16@gmail.com
+Tel:01917-834751
+
+Md. Tahiduzzaman
+Lecturer
+email: tahid.jstu09@gmail.com
+Tel:01925-325265
+
+Mustafizur Rahman
+Lecturer
+email: m.rahman@just.edu.bd; mostafizkuet09@gmail.com
+Tel:01911-673229
+
+Tarun Kumer Biswas
+Lecturer
+email: tarun@just.edu.bd, tbiswasipe@gmail.com
+Tel:01737-356968
+
+"
+    </string>
+    <string name="Pme">
+        "Dr. H. M. Zakir Hossain
+Associate Professor and Chairman
+email: zakirgsd@yahoo.com
+Tel:01928-031149
+
+Dr. Mohammad Tofayal Ahmed
+Associate Professor
+email: tofayal74@yahoo.com
+Tel:01961-476003
+
+Md. Moklesur Rahman
+Associate Professor
+email: moklesh@gmail.com
+Tel:01750-626503
+
+Md. Minhaj Uddin Monir
+Assistant Professor (On Study Leave for Ph.D in Malaysia)
+email: monir_pme@yahoo.com
+Tel:01717-713859
+
+
+Md. Kamrul Islam
+Assistant Professor
+Tel:01791-499985
+
+Md.Shaheen Shah
+Lecturer
+email: shaheenshah_just@yahoo.com
+Tel:01710-785055
+
+Farzana Yeasmin Nipa
+Lecturer
+email: n.jstu@yahoo.com
+Tel:01724-808479
+
+"
+    </string>
+    <string name="EEE">
+        "Md. Masud Rana
+Assistant Professor and Chairman (In-Charge)
+email: mm.rana@just.edu.bd
+Tel:01912-944614
+
+
+Engr. Imran Khan
+Assistant Professor (On Study Leave, PhD Scholar, New Zealand)
+email: i.khan@just.edu.bd
+  01717-933007
+
+Engr. MD. AMZAD HOSSAIN
+Assistant Professor, on Study Leave for Doctoral (PhD) Study by Japanese Govt. Scholarship
+email: mahossain.eee@gmail.com
+Tel:01712-498443
+
+Mehedi Hassan
+Assistant Professor (On Study Leave, PhD Scholar, Australia)
+email: m.hassan@just.edu.bd, mhj24.jsr@gmail.com
+Tel:01718-945945
+
+Md. Moznuzzaman
+Assistant Professor
+email: m.moznuzzaman@just.edu.bd
+Tel:01745-390310
+
+Dr. Md. Tanvir Hasan
+Assistant Professor
+email:mth@just.edu.bd
+Tel:01745-099246
+
+Engr. Sourav Roy
+Assistant Professor
+email: souravroy2k9@gmail.com, s.roy@just.edu.bd
+Tel:01941-055759
+
+
+Md. Mehedi Hasan
+Lecturer
+email: mhdhsn48@gmail.com
+Tel:01716-299277
+
+"
+    </string>
+    <string name="Bme">
+        "Dr. Md Zakir Hossain
+Associate Professor and Chairman
+email: mzh.bme@gmail.com
+Tel:01751-341099
+
+Dr. Hasan Mohammad Al-Imran
+Assistant Professor
+email: alemranmb27@hotmail.com
+Tel:01627-551090
+
+Farzana Khanam
+Lecturer
+email: farzana0703047@gmail.com
+Tel:01746-120224
+
+"
+    </string>
+    <string name="TE">
+        "Dr. Md. Tanvir Hasan
+Chairman and Assistant Professor
+email:mth@just.edu.bd
+
+
+Habibur Rahman
+Lecturer
+email: habib_te@just.edu.bd
+
+
+Salma Katun Sela
+Lecturer
+email: shila_te@just.edu.bd
+
+
+"
+    </string>
+    <string name="Dean2">
+        "Dean
+Dr. Kishor Mazumder
+email: kmazumder@just.edu.bd
+Tel: 01817-754648
+
+"
+    </string>
+    <string name="Microbiology">
+        "Md. Iqbal Kabir Jahid, Ph.D
+Associate Professor and Chairman
+email: ikjahid@yahoo.com
+Tel:01762-376626
+
+Md. Tanvir Islam
+Assistant Professor (On Study Leave)
+email: mt.islam@just.edu.bd
+Tel:01911-067484
+
+Dr. Selina Akter
+Assistant Professor
+email:s.akter@just.edu.bd
+Tel:01740-92737
+
+Tarannum Taznin
+Assistant Professor
+email: tarannum.taznin@yahoo.com
+Tel:01825-040179
+
+Pravas Chandra Roy
+Assistant Professor
+email: pcroy14gmail.com
+Tel:0731-438076
+
+
+Nigar Sultana Meghla
+Lecturer
+email: nsultana79@yahoo.com
+Tel:01816-188197
+
+"
+    </string>
+    <string name="Pharmacy">
+        "Dr. Kishor Mazumder
+Chairman and Associate Professor
+email: kmazumder@just.edu.bd
+Tel: 01817-754648
+
+
+Mohammad Jashim Uddin
+Assistant Professor
+email: jashimpharmacist@yahoo.com
+Tel:01914-618271
+
+Debendra Nath Roy
+Assistant Professor
+email:dn.roy@just.edu.bd
+Tel:01727-663520
+
+Md. OBAYED RAIHAN
+Assistant Professor(On Study Leave)
+email: mo.raihan@just.edu.bd/ raihan@mail.ustc.edu.cn
+Tel:01716-664747
+
+
+Md. Rashidur Rahman
+Assistant Professor
+email: mr.rahman@just.edu.bd
+Tel:01727-510926
+
+Rokshana Sharmin
+Assistant Professor
+email:lina2052@gmail.com
+Tel:01729-753610
+
+Mst. Farzana Sultana
+Assistant Professor
+email: farzana_phm8723@just.edu.bd
+Tel:01723-423063
+
+Farhana Islam
+Assistant Professor
+email:chaity32ph@yahoo.com
+Tel:01716-358703
+
+Md. Rafiqul Islam
+Assistant Professor
+email:rafiqulislambd7@gmail.com
+Tel:01717-888875
+
+Md. Abdullah Aziz
+Lecturer
+email:a.aziz@just.edu.bd
+Tel:01759-564289
+
+"
+    </string>
+    <string name="Genetic">
+        "Prof. Dr. Shaikh Mizanur Rahman
+Professor and Chairman
+email: mizanshaikh@yahoo.com
+Tel:01703-709945
+
+Prof. Dr. Md. Ziaul Amin
+Professor
+email:aminziajstu@yahoo.com
+Tel:01726-034288
+
+
+Dr. Md. Nazmul Hasan
+Associate Professor
+email: mnhasan1978@gmail.com, mn.hasan@just.edu.bd
+Tel:01911-034367
+
+Dr. A. M. Swaraz
+Assistant Professor
+email:a.m.swaraz@gmail.com
+Tel:01717-283356
+
+Aneesa Ansari
+Assistant Professor(on study leave)
+email:aneesa_219@yahoo.com
+Tel:01725-071599
+
+
+Dr. Md. Mashiar Rahman
+Assistant Professor
+email:mm.rahman@just.edu.bd
+Tel:01788-652358
+
+Biplab Kumar Dash
+Assistant Professor
+email: biplab.iu@gmail.com
+Tel:01717-643365
+
+
+Forhad Karim Saikot
+Assistant Professor
+email: fk.saikot@just.edu.bd
+Tel:01717-241301
+
+S. M. Khaledur Rahman
+Lecturer
+email: smk.rahman@just.edu.bd ,khaled_shuvo@yahoo.com
+Tel:01719-480098
+
+"
+    </string>
+    <string name="Fisheries">
+        "Prof. Dr. Md. Anisur Rahman
+Professor and Chairman
+email: anis_1963@yahoo.com
+Tel: 01710-814526
+
+Md. Sherazul Islam, PhD
+Associate Professor
+email: tuhinkk@yahoo.com
+Tel:01913-241344
+
+Dr. Subrata Mondal
+Associate Professor
+email:subrata.fmb.just@gmail.com
+Tel: 01712-242546
+
+Dr. Md. Mer Mosharraf Hossain
+Associate Professor
+email: mmiron_bau@yahoo.com; mmm.hossain@just.edu.bd
+Tel:01731-143787
+
+Md. Abdus Samad
+Assistant Professor
+email: ma.samad@just.edu.bd
+Tel:01750-064350
+
+Monjurul Haq
+Assistant Professor(On study leave)
+email: monjurulhaq83@gmail.com, mr.haq@just.edu.bd
+Tel:01717-562887
+
+Ripon Kumar Adhikary
+Assistant Professor
+email:rk.adhikary@just.edu.bd
+Tel:01718-406277
+
+Priyanka Paul
+Lecturer
+email: prianka@just.edu.bd
+Tel:01721-583306
+
+
+Kamrun Naher Azad
+Lecturer
+email:kamrunnaher@just.edu.bd
+Tel:01927-703738
+
+"
+    </string>
+    <string name="Dean3">
+        "Dean
+Dr. Md. Omar Faruque
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Environmental">
+        "Dr. K. M. Delowar Hossain
+Associate Professor and Chairman
+email: kmdelowar@hotmail.com
+  01712-463790
+
+Dr. Shaibur Rahman Molla
+Associate Professor
+email: shaibur75@yahoo.com; shaibur@gmail.com
+Tel:01714-985724
+
+Dr. Gopal Chandra Ghosh
+Associate Professor
+email:gopales8@hotmail.com
+Tel:01760-115579
+
+Dr. Mohammad Mahfuzur Rahman
+Associate Prof., and Advisor, Research Cell, International Collaboration and Extension
+email: rahmanihe@yahoo.com
+Tel:01797-757421
+
+Moumita Choudhury
+Assistant Professor
+email:moumita_envsc@yahoo.com
+Tel:01712-588905
+
+Nazneen Nahar
+Assistant Professor (On Study Leave)
+email: n.nahar@just.edu.bd
+Tel:01712-062004
+
+Tapos Kumar Chakraborty
+Lecturer
+email:taposchakraborty@rocketmail.com
+Tel:01756-610261
+
+      F. K. Sayema Tanzia
+Lecturer
+email:tanziajust@gmail.com
+Tel:01770-207822
+
+"
+    </string>
+    <string name="Nutrition">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+Shireen Nigar
+Assistant Professor (On Study Leave, Japan)
+email:shireen_nigar@yahoo.com
+Tel:01712-835566
+
+Rashida Parvin
+Assistant Professor
+email:rakhiparvin@yahoo.com
+Tel:01718-729008
+
+
+Tanvir Ahmad
+Assistant Professor
+email:fmtanvir@gmail.com
+Tel:01717-287227
+
+Md. Shimul Islam
+Assistant Professor
+email:shimulislam99@yahoo.com
+Tel:01776-089264
+
+Rajib Kanti Roy
+Lecturer
+email: rajib131kushtia@gmail.com
+Tel:01721-899779
+
+Fatema Tuj Johara
+Lecturer
+email:fatematj@just.edu.bd
+Tel:01976-667912
+
+"
+    </string>
+    <string name="Agro">
+        "Dr. Mrityunjoy Biswas
+Professor and Chairman
+email:mrityunjoy_appt@just.edu.bd
+
+
+Md. Saifullah
+      Lecturer (On Study Leave)
+      email:m.saifullah@just.edu.bd
+         01737-778164
+
+      S. M. Shamiul Alam
+      Lecturer
+      email: s_saikot.appt@just.edu.bd
+       01722-967720
+
+     Shafi Ahmed
+     Lecturer
+     email: shafi.fet@gmail.com
+       01740-254197
+
+
+     Ashish Kumar Das
+     Lecturer
+     email: ashishfpm@gmail.com
+       01726-752135
+
+"
+    </string>
+    <string name="Dean4">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Mathematics">
+        "Md. Zohurul Islam
+Assistant Professor and Chairman
+email: mz.islam@just.edu.bd
+  01717-964452
+
+Md. Hafiz Uddin
+Assistant Professor
+email: hafiz_uddin81@yahoo.com
+  01716120652
+
+Dr. Md. Farhad Bulbul
+Assistant Professor
+email: farhad@just.edu.bd
+  01725-039922
+
+Shamima Akter
+Assistant Professor
+email:sh.akter@just.edu.bd
+  01783-348901
+
+Samiran Mondal
+Assistant Professor
+email: sn.mondal@just.edu.bd
+  01792-886745
+
+Md. Akram Hossain
+Assistant Professor
+email: a.hossain@just.edu.bd, akrammath90@gmail.com
+  01926-962925
+
+Md. Harun Rashid
+Assistant Professor
+email: h.rashid@just.edu.bd
+  01723-591884
+
+"
+    </string>
+    <string name="Physics">
+        "Md. Masum Billah
+Assistant professor and Chairman
+email: mm.billah@just.edu.bd
+  01756-199202
+
+Md. Roknuzzaman
+Assistant Professor (On Study Leave)
+email: m.roknuzzaman@just.edu.bd
+  01719-453113
+
+Sheikh Dobir Hossain
+Assistant Professor
+email: s.dobir@just.edu.bd
+  01740-197769
+
+Dr. Md. Alamgir Badsha
+Assistant Professor
+email: alamgir4du@gmail.com
+ 	01749-154555
+
+Dr. Md. Humaun Kabir
+Assistant Professor
+email: mhkabir@just.edu.bd, hakim2021@yahoo.com
+   01753-949948
+
+Rony Mallick
+Assistant Professor
+email: ronymallick11@gmail.com
+  01775-004998
+
+Md. Mehade Hasan
+Lecturer
+email: mehade.36@gmail.com
+  01913-089442
+
+"
+    </string>
+    <string name="Chemistry">
+        "Dr. Suman Chandra Mohanta
+Assistant Professor and Chairman
+email: smohantabd@yahoo.com
+  01750-533544
+
+
+Dr. M. Alauddin
+Professor
+email:malauddin.kst@gmail.com
+  01740-981666
+
+Bablu Hira Mandal
+Assistant Professor
+email: babluhiramandal@gmail.com
+  01711-013881
+
+K. M. Anis-Ul-Haque
+Assistant Professor (On Study Leave)
+email: a.haque@just.edu.bd
+  01719-326956
+
+Md. Korban Ali
+Assistant Professor
+email: mk.liton@just.edu.bd
+  01722-898670
+
+Ataul Kabir
+Assistant Professor
+email: a.kabir@just.edu.bd
+  01670-399603
+
+
+"
+    </string>
+    <string name="Dean5">
+        "Dean
+Prof. Dr. Md. Anwar Hossain
+Email: vc@just.edu.bd
+  0421-61111
+
+"
+    </string>
+    <string name="English">
+        "Md. Munibur Rahman
+Chairman (Assistant Professor)
+email: munibur1@gmail.com
+  01711-947522
+
+Farzana Nasrin
+Assistant Professor
+email: fn.shathy04@gmail.com
+  01792-887434
+
+
+Md. Abdul Halim
+Assistant Professor
+email: abdulhalim_en_iu@yahoo.com, ahalim@just.edu.bd
+  01712377093
+
+Dr. Md. Abdullah Al Mamun
+Assistant Professor
+email: mamunngc@gmail.com
+  01712-290144
+
+
+Farhana Yeasmin
+Lecturer
+email: dipaislam95@gmail.com
+  01716-803349
+
+
+"
+    </string>
+    <string name="Dean6">
+        "Dean
+Prof. Dr. Md. Anwar Hossain
+Email: vc@just.edu.bd
+  0421-61111
+
+"
+    </string>
+    <string name="Business_Studies">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Accounting">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Management">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Finance">
+        "Dr. Md. Omar Faruque
+Associate Professor and Chairman
+email:faruque.nft.just@gmail.com
+Tel:01757-072815
+
+"
+    </string>
+    <string name="Dean7">
+        "Dean
+Dr. Md. Zafiroul Islam
+email: zafiroul@gmail.com
+  01712-158313
+
+
+"
+    </string>
+    <string name="Physical">
+        "Dr. Md. Zafiroul Islam
+Associate Professor and Chairman
+email: zafiroul@gmail.com
+  01712-158313
+
+Dr. Md. Nasim Reza
+Associate Professor
+email:drmdnasimreza@gmail.com
+  01711-159237
+
+Shaybal Chanda
+Assistant Professor(On study leave for PhD in India)
+email:shaybalchanda@yahoo.com
+  01714-034035
+
+Md. Hamidur Rahman
+Assistant Professor
+email:hamid.just@yahoo.com
+  01733-153513
+
+Prof. Dr. S. Bhowmick
+Guest Professor
+email:sudarsanbhowmick@yahoo.com
+  01743-525305
+
+Md. Feroz Kabir
+Lecturer
+email:physioferoz@gmail.com
+  01765-932545
+
+"
+    </string>
+
+
+</resources>

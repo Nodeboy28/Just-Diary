@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:id="@+id/table2"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        android:background="@drawable/border"
+        android:contextClickable="true">
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/glance"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_span="2"
+                android:textColor="@color/BlueViolet"
+                />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/establish"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/dateId"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Areaid"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/area"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Addressid"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Addressdataid"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/degree"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/degreedata"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/faculty"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/facultydata"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/departments"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/departmentsdata"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:gravity="center"
+                android:text="@string/buildings"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:maxLines="10"
+                android:text="@string/build_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/halls"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/hall_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/student"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/student_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Faculty_Members"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/faculty_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Officers"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Officers_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:padding="5dp">
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Staffs"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:text="@string/Staffs_data"
+                android:textSize="15sp"/>
+
+        </TableRow>
+
+
+    </TableLayout>
+
+</ScrollView>
+
+

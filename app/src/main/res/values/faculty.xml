@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facultyId">faculty</string>
+    <string name="faculty_list">
+        "1.	Engineering and Technology
+
+2.	Biological Science and Technology
+
+3.	Applied Science and Technology
+
+4.	Arts and Social Science
+
+5.	Faculty of Science
+
+6.	Faculty of Business Studies
+
+7.	Faculty of Health Science"
+
+    </string>
+    <string name="engineering">Faculty of Engineering and Technology </string>
+    <string name="engineering_list">
+        "1.	Computer Science and Engineering (CSE)
+
+2.	Petroleum and Mining Engineering (PME)
+
+3.	Chemical Engineering (ChE)
+
+4.	Biomedical Engineering (BME)
+
+5.	Electrical and Electronic Engineering (EEE)
+
+6.	Industrial and Production Engineering (IPE)
+
+7.	Textile Engineering (TE)"
+
+    </string>
+    <string name="biology">Faculty of Biological Science and Technology</string>
+    <string name="biology_list">
+        "1.	Microbiology(MB)
+
+2.	Fisheries and Marine Bioscience (FMB)
+
+3.	Genetic engineering and Biotechnology(GEBT)
+
+4.	Pharmacy( B.Pharm professional)"
+
+    </string>
+    <string name="arts">Faculty of Arts and Social Science</string>
+    <string name="arts_list">
+        "1.	English (ENG)"
+
+    </string>
+    <string name="health">Faculty of Health Science</string>
+    <string name="health_list">
+        "1.	Physical Education and Sports Science (PESS)
+
+2.	Nursing Science (NS) (to be launched)
+"
+
+    </string>
+    <string name="scienceId">Faculty of Health Science</string>
+    <string name="science_list">
+        "1.	Mathematics
+
+2.	Physics
+
+3.	Chemistry"
+
+    </string>
+    <string name="buisness">Faculty of Business Studies</string>
+    <string name="buisness_list">
+        "1.	Accounting and Information Systems (AIS)
+
+2.	Management
+
+3.	Finance and Banking"
+
+    </string>
+    <string name="ms">MS programs </string>
+    <string name="ms_list">
+        "M.Sc Engg. in Computer Science and Engineering (CSE)
+
+M.Sc.Engg. in Chemical Engineering(Ch.E)
+
+M.S in Environmental Science and Technology (EST)
+
+M.S in Microbiology (MB)
+
+M.S in Fisheries and Marine Bio-science (FMB)
+
+M.S in Genetic Engineering and Biotechnology (GEBT)
+
+"
+
+    </string>
+
+</resources>

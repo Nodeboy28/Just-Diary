@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="glance">JUST At A Glance</string>
+    <string name="establish">Establishment:</string>
+    <string name="dateId">January 25, 2007</string>
+    <string name="Areaid">Area:</string>
+    <string name="area">35 Acres</string>
+    <string name="Addressid">Address:</string>
+    <string name="Addressdataid">Jessore-7408,Bangladesh</string>
+    <string name="degree">Degree:</string>
+    <string name="degreedata">B.Sc./ M.Sc./ PhD./ B.Sc. Engg.</string>
+    <string name="faculty">Faculty:</string>
+    <string name="facultydata">07</string>
+    <string name="departments">Departments:</string>
+    <string name="departmentsdata">22</string>
+    <string name="buildings">Buildings:</string>
+    <string name="build_data">
+        "Academic: 01
+(Nine stored; 1,50,000 sqft)
+Academic cum Library: 01
+(three stored)
+Admin: 01
+(five stored)
+Medical Center: 01
+(2 stored)
+Dormitory: 02
+one is 5-stored,another is 10-stored"
+    </string>
+    <string name="halls">Halls:</string>
+    <string name="hall_data">
+        "02
+        one for male,
+        another for female;
+        each 5-stored"
+    </string>
+    <string name="student">Students:</string>
+    <string name="student_data">3466</string>
+    <string name="Faculty_Members">Faculty Members:</string>
+    <string name="faculty_data">165</string>
+    <string name="Officers">Officers:</string>
+    <string name="Officers_data">74</string>
+    <string name="Staffs">Staffs:</string>
+    <string name="Staffs_data">138</string>
+    <string name="contactInfo">Contact Information</string>
+    <string name="contact_list">
+        "Office of the Registrar
+
+Jessore University of Science and Technology (JUST)
+
+Jessore – 7408
+
+Tel:
++880-421-61097,
+
++880-421-61098,
+
++880-421-62020,
+
++880-421-62030,
+
++880-421-62080,
+
++880-421-63270,
+
++880-421-63280
+
+Fax:
+0421-61199,
+0421-62238
+
+Web:
+www.just.edu.bd
+
+E-mail:
+vc@just.edu.bd,
+
+registrar@just.edu.bd
+"
+
+    </string>
+
+</resources>

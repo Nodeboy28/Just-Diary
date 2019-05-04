@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/dashboardId"
+            android:icon="@drawable/ic_home"
+            android:title="Dashboard"/>
+        <item android:id="@+id/aboutId"
+            android:icon="@drawable/ic_business"
+            android:title="About JUST"/>
+        <item android:id="@+id/informationId"
+            android:icon="@drawable/ic_info"
+            android:title="Information Desk"/>
+        <item android:id="@+id/calender"
+            android:icon="@drawable/ic_event_note"
+            android:title="Calender"/>
+        <item android:id="@+id/noteId"
+            android:icon="@drawable/ic_event_note"
+            android:title="Note"/>
+        <item android:id="@+id/settingsId"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings"/>
+        <item android:id="@+id/contactId"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            android:title="Contact JUST"/>
+        <item android:id="@+id/mapId"
+            android:icon="@drawable/ic_map"
+            android:title="Map"/>
+        <item android:id="@+id/webssiteId"
+            android:icon="@drawable/ic_web"
+            android:title="Visit Website"/>
+    </group>
+
+</menu>
